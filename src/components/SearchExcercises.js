@@ -3,7 +3,7 @@ import React from 'react'
 const SearchExcercises = () => {
   return (
     <div>
-      
+      SearchExcercises
     </div>
   )
 }
